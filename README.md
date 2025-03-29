@@ -34,7 +34,7 @@
 
    - 将生成的公钥设置到Github
 
-     ![git_sshKey_setting](.\readme_pic\git_sshKey_setting.png)
+     ![git_sshKey_setting](./readme_pic/git_sshKey_setting.png)
 
 ##### git项目到github仓库
 
